@@ -9,16 +9,6 @@
 
 1. run ```yarn start``` for a production build. 
     * 
-
-
-## Minimum Viable Project 
-
-
-## Authors
-<img src="/hacker-news/public/jeffrey.png">
-
-| ```(jffry (dsr))``` | React ⚛ UI/UX Developer |  ```abderahim``` | React ⚛ UI/UX Developer
-
 ## Attributions 🙏🏿
 
 * **CSS Keyframes | Animista**
